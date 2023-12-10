@@ -1,5 +1,5 @@
 # discovered-weekly
-
+updated: 12/9/2023
 Archive each week's Discover Weekly
 
 This repo allows you to automatically archive your Discover Weekly playlist each week in two ways:
